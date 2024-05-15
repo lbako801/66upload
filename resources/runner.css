@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+    padding: 0 24px 36px 24px;
+}
+
+a {
+    color: brown;
+    font-weight: bold;
+}
+
+a:hover {
+    color: blue;
+}
+
+h1,h2 {
+    color: rgb(45, 45, 121);
+}
+
+h1 {
+    text-align: center;
+}
+
+p,li,table {
+    font-size: 1.2em;
+}
+
+p.picture {
+    text-align: center;
+}
+
+th,td {
+    border: #468ba6 solid 3px;
+    padding: 8px;
+}
+
+table{
+    border-collapse: collapse;
+}
